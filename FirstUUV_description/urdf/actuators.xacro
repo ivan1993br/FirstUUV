@@ -30,7 +30,7 @@
     <xacro:fin_macro namespace="${namespace}" fin_id="2">
       <origin xyz="0 0 0" rpy="0 0 0" />
     </xacro:fin_macro>
-    <xacro:fin_macro namespace="${namespace}" fin_id="3">
+    <xacro:fin_macro namespace="${namespace}" fin_id="4">
       <origin xyz="0 0 0" rpy="0 0 0" />
     </xacro:fin_macro>
 
