@@ -1,0 +1,6 @@
+{
+    "commands": {
+        "build": "cd ~/catkin_ws && catkin build",
+        "run": ""
+    }
+}
